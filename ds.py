@@ -1,0 +1,15 @@
+print("list started here")
+c=["Captain America","Iron man","Hulk","Thor","Klint","Black Widoe"]
+print(c)
+print(c[3])
+c.reverse()
+print(c)
+d=("this","is","touple")
+print(d)
+print(d[2])
+dic={"name":"pranshu","class":['HEIGHER','upper'],"SO":"Whatsup!"}
+print(dic)
+print(dic["name"])
+print(dic["class"][1])
+dic["class"].append("lower")
+print(dic)
